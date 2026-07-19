@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "conflict-resolution/pr-624-negative-currency",
+    "feat/configurable-table-skeleton-rows",
+    "fix/pipeline-green",
+    "main",
+    "naming-conventions",
+    "origin",
+    "starknet",
+    "vercel/react-server-components-cve-vu-vzni9f"
+  ],
+  "parent": {
+    "conflict-resolution/pr-624-negative-currency": "main",
+    "feat/configurable-table-skeleton-rows": "main",
+    "fix/pipeline-green": "main",
+    "main": null,
+    "naming-conventions": "main",
+    "origin": "main",
+    "starknet": "main",
+    "vercel/react-server-components-cve-vu-vzni9f": "main"
+  },
+  "order": [
+    "main",
+    "conflict-resolution/pr-624-negative-currency",
+    "feat/configurable-table-skeleton-rows",
+    "fix/pipeline-green",
+    "naming-conventions",
+    "origin",
+    "starknet",
+    "vercel/react-server-components-cve-vu-vzni9f"
+  ]
+}
